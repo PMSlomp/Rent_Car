@@ -1,2 +1,2 @@
 # Rent_Car
-Web3 class project
+Web3 Class Project - UTFPR
